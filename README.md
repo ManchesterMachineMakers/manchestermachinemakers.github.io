@@ -24,3 +24,11 @@
     ```
     In the `url` entry, the _beginning_ slash is needed, and you **should not** add the `.md` file extension. You _also_ should not add an ending slash, or it will break.
   * Commit your changes
+
+## Running the website locally
+- Install Ruby
+- Follow the [Jekyll](https://jekyllrb.com) setup instructions
+- Run `bundle exec jekyll serve`. It will install some dependencies the first time (in the `.bundle` folder), and then it will host the site at <http://localhost:4000>.
+
+## Other notes
+- I am still working on the config file and template structure for this, so in the (near) future it will (hopefully) become _both_ easier and more powerful to add pages.
