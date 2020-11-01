@@ -1,2 +1,3 @@
 .bundle/ruby
 _site/
+Gemfile.lock
