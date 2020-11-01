@@ -27,8 +27,9 @@
 
 ## Running the website locally
 - Install Ruby
-- Run `gem install bundler jekyll` to install the executables needed.
-- Run `bundle exec jekyll serve`. It will install some dependencies the first time (in the `.bundle` folder), and then it will host the site at <http://localhost:4000>.
+- Run `gem install bundler jekyll` to install the executables needed. This will take a while.
+- Run `bundle install` to install dependencies.
+- Run `bundle exec jekyll serve`. It will host the site at <http://localhost:4000>.
 
 ## Other notes
 - I am still working on the config file and template structure for this, so in the (near) future it will (hopefully) become _both_ easier and more powerful.
