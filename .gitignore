@@ -1,4 +1,4 @@
 .bundle/ruby
 _site/
 Gemfile.lock
-.jekyll-cache
+.jekyll-cache/
