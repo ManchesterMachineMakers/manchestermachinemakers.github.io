@@ -31,4 +31,4 @@
 - Run `bundle exec jekyll serve`. It will install some dependencies the first time (in the `.bundle` folder), and then it will host the site at <http://localhost:4000>.
 
 ## Other notes
-- I am still working on the config file and template structure for this, so in the (near) future it will (hopefully) become _both_ easier and more powerful to add pages.
+- I am still working on the config file and template structure for this, so in the (near) future it will (hopefully) become _both_ easier and more powerful.
