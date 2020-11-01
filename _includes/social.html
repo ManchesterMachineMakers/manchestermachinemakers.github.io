@@ -1,3 +1,6 @@
+See us on:
 <ul class="social-media-list">
-	<li><a rel="me" href="https://github.com/ManchesterMachineMakers">GitHub</a></li>
+	{% for link in site.data.social %}
+		<li><a rel="me" class="social-link" href="{{ link.link }}">{{ link.display }}</a></li>
+	{% endfor %}
 </ul>

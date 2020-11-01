@@ -3,7 +3,35 @@
     src: url('/fonts/neuropolitical.ttf');
 }
 
-.site-title {
-    font-family: neuropolitical, Arial, Helvetica, sans-serif
-
+.site-header, .site-footer {
+    background-color: black;
+    color: white;
+}
+@media screen and (min-width: 600px) {
+    .site-nav, .site-nav * {
+        color: white !important;
     }
+}
+@media screen and (max-width: 600px) {
+    .site-nav, .site-nav * {
+        color: black !important;
+    }
+}
+.site-title {
+    color: white !important;
+    font-family: neuropolitical, Arial, Helvetica, sans-serif;
+}
+
+a.social-link {
+    color: white !important;
+    &:hover {
+        text-decoration: underline !important;
+    }
+}
+.social-media-list {
+    display: inline;
+    li {
+        display: inline;
+        margin: 10px;
+    }
+}
