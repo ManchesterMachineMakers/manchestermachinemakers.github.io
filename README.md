@@ -2,11 +2,11 @@
 ## <https://manchestermachinemakers.github.io>
 ## Adding a page
 - Add a Markdown/Frontmatter file
-  * Create a Markdown file
-    Click `Add file -> Create new file` in GitHub
-    Name your file with a descriptive name (dashes instead of spaces, preferably lowercase) and a `.md` file extension.
+  * Create a Markdown file \
+    Click `Add file -> Create new file` in GitHub \
+    Name your file with a descriptive name (dashes instead of spaces, preferably lowercase) and a `.md` file extension. \
     Guide to Markdown: <https://daringfireball.net/projects/markdown/syntax>
-  * Add Frontmatter
+  * Add Frontmatter \
     Add a section to the _very top_ of your file that looks like this:
     ```yaml
     ---
