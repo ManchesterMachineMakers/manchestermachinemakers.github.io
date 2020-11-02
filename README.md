@@ -27,7 +27,7 @@
 
 ## Adding a member or robot profile (to `team.md` or `robots.md`, respectively)
 The syntax for a profile is as follows:
-```liquid
+```Liquid
 {% profile name: "Name of Member", img: "/path/to/photo", hsize: 2 %}
 description
 {% endprofile %}
