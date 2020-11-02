@@ -11,7 +11,7 @@ module MMMSite
         def internal_render
             <<~PROFILE
             <h1>#{@name}</h1>
-            <img width="600" height="400" src="#{@image}" alt="#{@name} (Image)"/>
+            <img src="#{@image}" alt="#{@name} (Image)"/>
             <p>
             #{Kramdown::Document.new(@text).to_html}
             </p>

@@ -2,7 +2,8 @@
 title: Robots
 layout: default
 ---
-{% profile name: 'Jeffrey (2019-2020)' %}
+# Robots
+{% profile name: 'Jeffrey (2019-2020)', img: '/assets/jeffrey.png' %}
 Our robot during the 2019-2020 season.
 
 ----

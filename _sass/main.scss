@@ -6,10 +6,20 @@
 header.site-header, footer.site-footer {
     background-color: black;
     color: white;
+    position: sticky;
 }
+header.site-header {
+    top: 0;
+}
+
 a.site-title-logo {
     margin-top: 10px;
     
+}
+@media screen and (min-height: 650px) {
+    footer.site-footer {
+        bottom: 0;
+    }
 }
 @media screen and (min-width: 600px) {
     div.trigger a.page-link {
