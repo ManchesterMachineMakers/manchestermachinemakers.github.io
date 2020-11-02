@@ -51,5 +51,8 @@ The size of the header for the name, with 1 being the largest and 7 being the sm
 - Run `bundle install` to install dependencies. This will also take a while.
 - Run `bundle exec jekyll serve`. It will host the site at <http://localhost:4000>.
 
+## Publishing the website
+Run `rake`. This will build the site and publish it to the `gh-pages` branch.
+
 ## Other notes
 - I am still working on the config file and template structure for this, so in the (near) future it will (hopefully) become _both_ easier and more powerful.
