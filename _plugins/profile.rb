@@ -6,11 +6,13 @@ module MMMSite
         def bind_params(params)
             @name = params[:name] or raise SyntaxError, 'Must have name for profile'
             @image = params[:img]
+            @hsize = params[:hsize]
             @image = 'http://placekitten.com/g/600/400' if @image == '' or @image.nil?
+            @hsize = 2 if @hsize == '' or @hsize.nil?
         end
         def internal_render
             <<~PROFILE
-            <h1>#{@name}</h1>
+            <h#{@hsize}>#{@name}</h#{@hsize}>
             <img src="#{@image}" alt="#{@name} (Image)"/>
             <p>
             #{Kramdown::Document.new(@text).to_html}
