@@ -3,35 +3,39 @@
     src: url('/fonts/neuropolitical.ttf');
 }
 
-.site-header, .site-footer {
+header.site-header, footer.site-footer {
     background-color: black;
     color: white;
 }
 @media screen and (min-width: 600px) {
-    .site-nav, .site-nav * {
-        color: white !important;
+    div.trigger a.page-link {
+        color: white;
+    }
+    nav.site-nav, nav.site-nav * {
+        color: white;
     }
 }
 @media screen and (max-width: 600px) {
-    .site-nav, .site-nav * {
-        color: black !important;
+    nav.site-nav, nav.site-nav * {
+        color: black;
     }
 }
-.site-title {
-    color: white !important;
+a.site-title, a.site-title:visited {
+    color: white;
     font-family: neuropolitical, Arial, Helvetica, sans-serif;
 }
 
 a.social-link {
-    color: white !important;
+    color: white;
     &:hover {
-        text-decoration: underline !important;
+        text-decoration: underline;
     }
 }
 .social-media-list {
     display: inline;
+    margin-left: 8px;
     li {
         display: inline;
-        margin: 10px;
+        margin-right: 5px;
     }
 }
