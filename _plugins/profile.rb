@@ -1,5 +1,6 @@
 require_relative "glitchworks_block"
 require 'kramdown'
+require 'kramdown-parser-gfm'
 
 module MMMSite
     class Profile < GlitchWorks::Block
@@ -15,7 +16,7 @@ module MMMSite
             <h#{@hsize}>#{@name}</h#{@hsize}>
             <img src="#{@image}" alt="#{@name} (Image)"/>
             <p>
-            #{Kramdown::Document.new(@text).to_html}
+            #{Kramdown::Document.new(@text, input: 'GFM').to_html}
             </p>
             PROFILE
         end

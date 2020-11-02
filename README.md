@@ -25,6 +25,26 @@
     In the `url` entry, the _beginning_ slash is needed, and you **should not** add the `.md` file extension. You _also_ should not add an ending slash, or it will break.
   * Commit your changes
 
+## Adding a member or robot profile (to `team.md` or `robots.md`, respectively)
+The syntax for a profile is as follows:
+```markdown
+{% profile name: "Name of Member", img: "/path/to/photo", hsize: 2 %}
+description
+{% endprofile %}
+```
+### Parameters
+#### `name`
+The name of the member. \
+**Optional**: no
+#### `img`
+The URL or path to an image of the member. \
+**Optional**: yes \
+**Default value**: A 600x400 [placekitten](http://placekitten.com)
+#### `hsize`
+The size of the header for the name, with 1 being the largest and 7 being the smallest. \
+**Optional**: yes \
+**Default value**: 2
+
 ## Running the website locally
 - Install Ruby
 - Run `gem install bundler jekyll` to install the executables needed. This will take a while.
