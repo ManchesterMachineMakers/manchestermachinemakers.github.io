@@ -3,4 +3,5 @@ layout: default
 title: Home
 ---
 We are the ManchesterMachineMakers, the FTC team for Manchester, Vermont. \
-Donate [on GoFundMe](//gf.me/u/wizfk4)
+Welcome to our website! \
+You can learn more about our [team](/who-we-are), check out our [robots](/robots), or learn about [how we fundraise](/fundraising).

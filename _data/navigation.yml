@@ -1,4 +1,6 @@
-- title: Home
-  url: /
-- title: Who We Are
+- title: Team
   url: /who-we-are
+- title: Robots
+  url: /robots
+- title: Fundraising
+  url: /fundraising

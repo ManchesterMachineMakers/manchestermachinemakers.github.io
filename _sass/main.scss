@@ -7,17 +7,51 @@ header.site-header, footer.site-footer {
     background-color: black;
     color: white;
 }
+a.site-title-logo {
+    margin-top: 10px;
+    
+}
 @media screen and (min-width: 600px) {
     div.trigger a.page-link {
         color: white;
     }
+    nav.site-nav, a.site-title {
+        display: inline;
+        float: none;
+    }
+    nav.site-nav {
+        width: 100%;
+        text-align: center;
+    }
+    a.site-title-logo {
+        display: inline;
+        position: absolute;
+        top: 25px;
+        left: 10px;
+        margin-top: 0;
+    }
     nav.site-nav, nav.site-nav * {
         color: white;
+        text-transform: uppercase;
+        font-family: neuropolitical, Arial, sans-serif;
+    }
+    div.site-title-container {
+        width: 100%;
+        text-align: center;
     }
 }
 @media screen and (max-width: 600px) {
     nav.site-nav, nav.site-nav * {
         color: black;
+    }
+    a.site-title {
+        display: none;
+    }
+    a.site-title-logo {
+        display: block;
+        float: none;
+        width: 100%;
+        text-align: center;
     }
 }
 a.site-title, a.site-title:visited {
