@@ -20,6 +20,13 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    - name: Cache
+      uses: actions/cache@v2.1.2
+      with:
+        # A list of files, directories, and wildcard patterns to cache and restore
+        path: .bundle/
+        # An explicit key for restoring and saving the cache
+        key: bundle-folder
     - name: Set up Ruby
     # To automatically get bug fixes and new Ruby versions for ruby/setup-ruby,
     # change this to (see https://github.com/ruby/setup-ruby#versioning):
@@ -37,5 +44,3 @@ jobs:
       uses: actions-go/push@v1
       with:
         create-commit: false
-        ref: gh-pages
-        remote-ref: gh-pages
