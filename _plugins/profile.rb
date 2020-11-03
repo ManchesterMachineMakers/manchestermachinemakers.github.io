@@ -14,8 +14,7 @@ module MMMSite
         end
         def internal_render
             <<~PROFILE
-            <section class="profile">
-            <img class="profile-image" src="#{@image}" alt="#{@name} (Image)"/>
+            <section class="profile" style="background-image: url(#{@image})">
             <div class="profile-header">
                 <h#{@hsize} class="profile-name">#{@name}</h#{@hsize}>
                 <strong class="profile-title">#{@title}</strong>

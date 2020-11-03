@@ -89,7 +89,7 @@ a.social-link {
 .profile {
     position: relative;
     .profile-header {
-        position: absolute;
+        position: sticky;
         top: 0;
         backdrop-filter: blur(5px);
         display: block;
@@ -113,7 +113,20 @@ a.social-link {
         font-weight: bold;
         letter-spacing: 0.2em;
     }
-    .profile-image {
-        width: 100%;
+    .profile-text {
+        background-color: rgba(255,255,255,0.7);
+        backdrop-filter: blur(5px);
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+        margin-top: 10em;
+        margin-bottom: 0;
+        min-height: 100%;
+    }
+    overflow-y: scroll;
+    height: 400px;
+    background-size: auto;
+    padding: 0;
+    &::-webkit-scrollbar {
+        display: none;
     }
 }
