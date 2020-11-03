@@ -13,11 +13,13 @@ module MMMSite
         end
         def internal_render
             <<~PROFILE
-            <h#{@hsize}>#{@name}</h#{@hsize}>
+            <div class="profile">
             <img src="#{@image}" alt="#{@name} (Image)"/>
+            <h#{@hsize} class="profile-name">#{@name}</h#{@hsize}>
             <p>
             #{Kramdown::Document.new(@text, input: 'GFM').to_html}
             </p>
+            </div>
             PROFILE
         end
     end
