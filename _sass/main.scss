@@ -126,6 +126,7 @@ a.social-link {
     overflow-y: scroll;
     height: 400px;
     background-size: auto;
+    background-repeat: round;
     padding: 0;
     &::-webkit-scrollbar {
         display: none;
