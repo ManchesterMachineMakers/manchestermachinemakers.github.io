@@ -6,6 +6,7 @@
 header.site-header, footer.site-footer {
     background-color: black;
     color: white;
+    z-index: 999;
 }
 header.site-header {
     top: 0;
@@ -87,7 +88,7 @@ a.social-link {
 }
 .profile {
     position: relative;
-    .profile-name {
+    .profile-header {
         position: absolute;
         top: 0;
         backdrop-filter: blur(5px);
@@ -96,9 +97,20 @@ a.social-link {
         text-align: right;
         padding: 0.5em;
         box-sizing: border-box;
-        font-weight: bold;
         background-color: rgba(255,255,255,0.5);
+    }
+    .profile-name {
         font-family: 'neuropolitical';
+        font-weight: bold;
         letter-spacing: 0.5em;
+        margin: 0;
+    }
+    .profile-title {
+        font-family: 'Verdana';
+        font-weight: bold;
+        letter-spacing: 0.2em;
+    }
+    .profile-image {
+        width: 100%;
     }
 }
