@@ -2,13 +2,14 @@
     font-family: neuropolitical;
     src: url('/fonts/neuropolitical.ttf');
 }
-@font-face {
-    font-family: 'Roman Serif';
-    src: url('/fonts/romanserif/RomanSerif.ttf');
-}
+// @font-face {
+//     font-family: 'Roman Serif';
+//     src: url('/fonts/romanserif/RomanSerif.ttf');
+// }
+$monospace: 'DejaVu Sans Mono', 'Courier New', Courier, monospace;
 
 body {
-    font: 600 14pt/1.5 'Roman Serif',  sans-serif;
+    font-family: $monospace;
 }
 
 header.site-header, footer.site-footer {
@@ -125,7 +126,7 @@ a.social-link {
         margin: 0;
     }
     .profile-title {
-        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-family: $monospace;
         font-style: italic;
         font-weight: bold;
         letter-spacing: 0.2em;
