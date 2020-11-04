@@ -1,6 +1,7 @@
 require_relative "glitchworks_block"
 require 'kramdown'
 require 'kramdown-parser-gfm'
+require 'yaml'
 
 module MMMSite
     class Profile < GlitchWorks::Block
@@ -13,6 +14,8 @@ module MMMSite
             @hsize = 2 if @hsize == '' or @hsize.nil?
         end
         def internal_render
+            frontmatter = eval(YAML.load(@text).inspect)
+            @text.gsub!(/---(.|\n)*---/, '') # Remove frontmatter from markdown
             <<~PROFILE
             <section class="profile" style="background-image: url(#{@image})">
             <div class="profile-header">
@@ -20,6 +23,8 @@ module MMMSite
                 <strong class="profile-title">#{@title}</strong>
             </div>
             <div class="profile-text">
+            #{(frontmatter.map {|key, value| "<b>#{key}:</b> #{value}"}).join "<br/>"}
+            <hr/><br/>
             #{Kramdown::Document.new(@text, input: 'GFM').to_html}
             </div>
             </section>
