@@ -27,8 +27,13 @@
 
 ## Adding a member or robot profile (to `team.md` or `robots.md`, respectively)
 The syntax for a profile is as follows:
-```text.html.liquid
+```markdown-frontmatter
 {% profile name: "Name of Member", img: "/path/to/photo", hsize: 2 %}
+---
+What I Do: <what do you do?>
+First Season: <start year>-<end year>
+... any other info ...
+---
 description
 {% endprofile %}
 ```
@@ -44,6 +49,8 @@ The URL or path to an image of the member. \
 The size of the header for the name, with 1 being the largest and 7 being the smallest. \
 **Optional**: yes \
 **Default value**: 2
+### What's that crazy `--- ... ---` stuff?
+That is called Frontmatter. It is a way to embed metadata into Markdown documents using [YAML](https://yaml.org/), a human-readable language for data storage.
 
 ## Running the website locally
 - Install Ruby
