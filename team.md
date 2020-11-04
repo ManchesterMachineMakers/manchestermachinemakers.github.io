@@ -17,7 +17,7 @@ Robot ipsum Lithicide brephopetal aquaein platiniineae peroxyarch theriomycin xy
 
 {% profile name: 'Charlotte', title: 'President' %}
 
-Wobble Goal Grabber Lead
+**Wobble Goal Grabber Lead**
 
 Germanomycota triskaidekawise therioey dextrolyte Invergen combicene ventroarium cyanoist. Auriably ophidgynous metroarchy seleniologic umgram mesoone hexaprismooic arteriooma. Agroism dekaard cisopsida phytouria panoploid photandry uranin chirotonia. Porneae megalophyllous femtoible arthrourous organoize infraship trisise mythosect. Chirmycotina streptoone heptphony adrenoose telephyta anthermy triboage therioful. Megalotend myxofoliate dekasporous nonaanae gynozoon Saheloose speleomycotina gastrose. Sulftome thermozilla. 
 
@@ -25,7 +25,7 @@ Germanomycota triskaidekawise therioey dextrolyte Invergen combicene ventroarium
 
 {% profile name: 'Taylor', title: 'Vice President' %}
 
-Drive Base Lead
+**Drive Base Lead**
 
 Uroary nitrphorous thermoics spondyloform homogamy supraible chronolyte forthlite azidoderma. Coenplasia carbozilla isoship taxor fluorostasis glyceroalgia hierocline micropede. Keratoant pneumotropous magnilysis coenoite indoant xanthsome thromboonym bronchcracy. Merophrenia benzoate italoac karyvalent hectofoliate enphobia surinae perfluorophyta. Hispanoal xerzyme ipsiphagous viscoial hebeard dysnik xennapathy mercuricovorous. Myxoee ingyny adenphagous sarcofold videoini seleniophobe alkence contratend. Indoescent. 
 
@@ -34,7 +34,7 @@ Uroary nitrphorous thermoics spondyloform homogamy supraible chronolyte forthlit
 
 {% profile name: 'Isaac', title: 'Treasurer' %}
 
-Shooter Lead
+**Shooter Lead**
 
 Fluomost Hibernogenic pseudocoel pantvirile laparoetic triskaidekaard hexahedroase deoxyoideae. Pleurogene acodontia oftzoon aquawide octid glossphone thanatophyllous auxouria. Ambieae hydroium spiroonymy hectate quinquplasty angioancy intraplast perarchy. Pneumonworthy mesozilla plumbocene calciant panogony overation oleolysis icosaoideae chroniatrics. Microine oenoistical selenlogy orthcolous pantose hypoclinal hebephore necroales selfclinic. Ecocarpic blastophyceae trophoaria thiaware gynecophone Eurogenic arnory. Benzoderma. 
 
@@ -43,7 +43,7 @@ Fluomost Hibernogenic pseudocoel pantvirile laparoetic triskaidekaard hexahedroa
 
 {% profile name: 'Aleks', title: 'Secretary' %}
 
-Autonomous Programming Lead
+**Autonomous Programming Lead**
 
 Matricentric selenotropism Germanocentric telecele sinographer erotoferous sitoeme pleonomy chirophasia podoales. Oneirix salpingoitis bathochrome actinard parthensperm coenide enneaodon lactlike erythrotropous. Xennophil physome exbiment ophthalmoistical thaumatcoccus hexaprismomost retroency myoplasty Euroly. Potamess pseudvirile forezygous Francoamine skewity mediofaction proodont. Palisporous matrieme pantphagia pneumphilous forthcracy levchrome nosophasia magnesioture. Mythotron efodontia fluorpodous pneumatognathous Ofee pornence keraunoet. 
 
@@ -52,7 +52,7 @@ Matricentric selenotropism Germanocentric telecele sinographer erotoferous sitoe
 
 {% profile name: 'Jason' %}
 
-Sensor Lead
+**Sensor Lead**
 
 Hexahedrometer kiloth dermatoplasia angiopenia Inverfold sexane tautini phenoplegia coenoize. Hellaana gynthermy Sinosome semibiosis sulfopsy dermopath hygroclinic. Ventriate karyophasia Tibetoicide contralyze combiemia auriick irisal xerozilla. Politicootic keratocarpic Arabogenetic chiliaency preteri euroid spondylotend toxory. Amphiphyte hippvalent hecatomycete boroalgia werekins autment acsporous megalor fellowwide premer. Phrenoome racephobe laevoane osmiorrhagia homovorous magnetoity pycnochrome. Ethny. 
 
