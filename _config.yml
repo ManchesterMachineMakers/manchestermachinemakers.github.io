@@ -6,3 +6,6 @@ minima:
   title: Manchester Machine Makers
 plugins:
   - ./_plugins/profile
+exclude:
+  - rakefile
+  - README.md
