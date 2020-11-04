@@ -2,6 +2,14 @@
     font-family: neuropolitical;
     src: url('/fonts/neuropolitical.ttf');
 }
+@font-face {
+    font-family: 'Roman Serif';
+    src: url('/fonts/romanserif/RomanSerif.ttf');
+}
+
+body {
+    font: 600 14pt/1.5 'Roman Serif',  sans-serif;
+}
 
 header.site-header, footer.site-footer {
     background-color: black;
