@@ -31,7 +31,8 @@ Meg Ruley is a first year coach of the Manchester Machine Makers and the mother 
 ---
 What I Do: Tag Along Assistant Coach
 ---
-Patty Rutins grew up in 4-H with horses, and this year she moved to robotics instead.  Her excuse is that Aleks, her son, is a first-year member. She took a degree in Music and became a computer programmer, is a Senior Web Developer at The Orvis Company, Inc., and enjoys exploring all kinds of technology.
+
+Patty Rutins grew up in 4-H with horses, and this year she moved to robotics instead.  Her excuse is that Aleks, her son, is a first-year member. She earned a degree in Music and became a computer programmer, is currently a Senior Web Developer at The Orvis Company, Inc., and enjoys exploring all kinds of technology.
 
 {% endprofile %}
 
