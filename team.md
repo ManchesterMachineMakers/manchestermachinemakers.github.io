@@ -66,8 +66,10 @@ What I Do: Java Librarian & Web Developer
 First Season: 2020-2021
 ---
 
-Aleks is our lead autonomous programmer and proponent of [open source software](/opensource). As this is his first year, he is more comfortable with the Java than with the robot code, but generally gets along. 
+Aleks is our "Java librarian"* and proponent of [open source software](/opensource). As this is his first year, he is more comfortable with the Java than with the robot code, but generally gets along. 
 
+<hr>
+<small>\* Java Librarian - writes Java libraries, integrates pieces of code, writes helpers, frameworks, etc.</small>
 
 {% endprofile %}
 
