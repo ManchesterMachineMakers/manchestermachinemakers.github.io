@@ -28,34 +28,33 @@ Meg Ruley is a first year coach of the Manchester Machine Makers and the mother 
 {% endprofile %}
 
 # Team Members
-{% profile name: 'Charlotte', title: 'President' %}
+{% profile name: 'Charlotte', img: '/assets/charlotte.png', title: 'President' %}
 ---
 What I Do: Wobble Goal Grabber & Intake Lead
 First Season: 2019-2020
 ---
 
-Germanomycota triskaidekawise therioey dextrolyte Invergen combicene ventroarium cyanoist. Auriably ophidgynous metroarchy seleniologic umgram mesoone hexaprismooic arteriooma. Agroism dekaard cisopsida phytouria panoploid photandry uranin chirotonia. Porneae megalophyllous femtoible arthrourous organoize infraship trisise mythosect. Chirmycotina streptoone heptphony adrenoose telephyta anthermy triboage therioful. Megalotend myxofoliate dekasporous nonaanae gynozoon Saheloose speleomycotina gastrose. Sulftome thermozilla. 
+Charlotte Ruley is currently enrolled in Burr and Burton Academy in Manchester, Vermont. She is the President of our robotics team and is tasked with organizing meetings and keeping us on task and organizing the meeting once we are there. She enjoys academics like physics and other science-related classes. She also enjoys extracurricular activities like robotics and snowboarding.
 
 {% endprofile %}
 
-{% profile name: 'Taylor', title: 'Vice President' %}
+{% profile name: 'Taylor', img: '/assets/taylor.png', title: 'Vice President' %}
 ---
 What I Do: Drive Base Lead
 First Season: 2019-2020
 ---
 
-Uroary nitrphorous thermoics spondyloform homogamy supraible chronolyte forthlite azidoderma. Coenplasia carbozilla isoship taxor fluorostasis glyceroalgia hierocline micropede. Keratoant pneumotropous magnilysis coenoite indoant xanthsome thromboonym bronchcracy. Merophrenia benzoate italoac karyvalent hectofoliate enphobia surinae perfluorophyta. Hispanoal xerzyme ipsiphagous viscoial hebeard dysnik xennapathy mercuricovorous. Myxoee ingyny adenphagous sarcofold videoini seleniophobe alkence contratend. Indoescent. 
-
+Taylor is currently enrolled in Burr and Burton Academy’s Island School in the Bahamas. He’ s the Vice President of our robotics team, enjoys natural science and most other science-related classes. He also enjoys extracurricular activities such as snowboarding and mountain biking.
 
 {% endprofile %}
 
-{% profile name: 'Isaac', title: 'Treasurer' %}
+{% profile name: 'Isaac', img: '/assets/isaac.png', title: 'Treasurer' %}
 ---
 What I Do: Shooter & Autonomous Programming Lead
 First Season: 2019-2020
 ---
 
-Fluomost Hibernogenic pseudocoel pantvirile laparoetic triskaidekaard hexahedroase deoxyoideae. Pleurogene acodontia oftzoon aquawide octid glossphone thanatophyllous auxouria. Ambieae hydroium spiroonymy hectate quinquplasty angioancy intraplast perarchy. Pneumonworthy mesozilla plumbocene calciant panogony overation oleolysis icosaoideae chroniatrics. Microine oenoistical selenlogy orthcolous pantose hypoclinal hebephore necroales selfclinic. Ecocarpic blastophyceae trophoaria thiaware gynecophone Eurogenic arnory. Benzoderma. 
+Isaac is currently enrolled in the Burr & Burton Academy (BBA). He is currently in 9th grade, and he lives in rural Sunderland, Vermont. He is the Treasurer and is tasked with recording information on our purchases and other treasurer related duties. He is also our lead programmer. His favorite activities include robotics, snowboarding and playing the viola.
 
 
 {% endprofile %}
