@@ -30,7 +30,7 @@ Meg Ruley is a first year coach of the Manchester Machine Makers and the mother 
 # Team Members
 {% profile name: 'Charlotte', title: 'President' %}
 ---
-What I Do: Wobble Goal Grabber Lead
+What I Do: Wobble Goal Grabber & Intake Lead
 First Season: 2019-2020
 ---
 
@@ -51,7 +51,7 @@ Uroary nitrphorous thermoics spondyloform homogamy supraible chronolyte forthlit
 
 {% profile name: 'Isaac', title: 'Treasurer' %}
 ---
-What I Do: Shooter Lead
+What I Do: Shooter & Autonomous Programming Lead
 First Season: 2019-2020
 ---
 
@@ -62,7 +62,7 @@ Fluomost Hibernogenic pseudocoel pantvirile laparoetic triskaidekaard hexahedroa
 
 {% profile name: 'Aleks', title: 'Secretary', img: '/assets/aleks-profile.jpeg' %}
 ---
-What I Do: Autonomous Programming & Website Lead
+What I Do: Java Librarian & Web Developer
 First Season: 2020-2021
 ---
 
