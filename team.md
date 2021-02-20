@@ -7,6 +7,7 @@ We are a team of middle- and high-school aged kids building really cool robots f
 
 *Text otherwise provided by [Robot Ipsum](https://robotipsum.github.io/).*
 
+## Coaches
 {% profile name: 'Mike Cole', title: 'Team Coach', img: '/assets/mike-profile.jpg' %}
 ---
 What I Do: Team Coach
@@ -17,6 +18,16 @@ Mike is a 4-H Club Adult Counselor and lives in the Manchester area. He owns/run
 
 {% endprofile %}
 
+{% profile name: 'Meg Ruley', title: 'Team Coach', img: '/assets/MegRuley.JPG' %}
+---
+What I Do: Team Coach
+---
+
+Meg Ruley is a first year coach of the Manchester Machine Makers and the mother of team member Charlotte! She loves technology and learning about robotics.
+
+{% endprofile %}
+
+# Team Members
 {% profile name: 'Charlotte', title: 'President' %}
 ---
 What I Do: Wobble Goal Grabber Lead
