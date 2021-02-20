@@ -7,12 +7,12 @@ We are a team of middle- and high-school aged kids building really cool robots f
 
 *Text otherwise provided by [Robot Ipsum](https://robotipsum.github.io/).*
 
-{% profile name: 'Mike Cole', title: 'Team Coach' %}
+{% profile name: 'Mike Cole', title: 'Team Coach', img: '/assets/mike-profile.jpg' %}
 ---
 What I Do: Team Coach
 ---
 
-Robot ipsum Lithicide brephopetal aquaein platiniineae peroxyarch theriomycin xyrphage againty. Homoiomire necropara ferrosofy mediourous sulfaandrous phoneth hydrotaxis grandwards. Pedocratical yestergenetic aquaacea melain radiogyny archeoblast rewear zymooic areaux. Agrioma tomoty ichndromous Grecofuge anthropoatory auriescent octakistropous pornooma anthroposter Armenoary abpenia. Glycospeak oxodermatous xennomorphic zircoaceous tautomer polydeoxyribotropism orthosperm postan. Sulfacrat iridiocracy anarchoini exbies tautian leukoible. 
+Mike is a 4-H Club Adult Counselor and lives in the Manchester area. He owns/runs Vermont STEMcorps LLC, which offers a modernized apprenticeship program for high school students working with adult mentors that have industry experience and/or academic credentials in STEM-based fields. Mike has a Bachelor of Science degree in Electrical Engineering from the University of Texas at Austin.
 
 
 {% endprofile %}
@@ -49,13 +49,13 @@ Fluomost Hibernogenic pseudocoel pantvirile laparoetic triskaidekaard hexahedroa
 
 {% endprofile %}
 
-{% profile name: 'Aleks', title: 'Secretary' %}
+{% profile name: 'Aleks', title: 'Secretary', img: '/assets/aleks-profile.jpeg' %}
 ---
 What I Do: Autonomous Programming & Website Lead
 First Season: 2020-2021
 ---
 
-Matricentric selenotropism Germanocentric telecele sinographer erotoferous sitoeme pleonomy chirophasia podoales. Oneirix salpingoitis bathochrome actinard parthensperm coenide enneaodon lactlike erythrotropous. Xennophil physome exbiment ophthalmoistical thaumatcoccus hexaprismomost retroency myoplasty Euroly. Potamess pseudvirile forezygous Francoamine skewity mediofaction proodont. Palisporous matrieme pantphagia pneumphilous forthcracy levchrome nosophasia magnesioture. Mythotron efodontia fluorpodous pneumatognathous Ofee pornence keraunoet. 
+Aleks is our lead autonomous programmer and proponent of [open source software](/opensource). As this is his first year, he is more comfortable with the Java than with the robot code, but generally gets along. 
 
 
 {% endprofile %}
