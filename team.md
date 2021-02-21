@@ -84,7 +84,7 @@ Meg Ruley is a first year coach of the Manchester Machine Makers and the mother 
 
 {% endprofile %}
 
-{% profile name: 'Patty Rutins', title: 'Assistant Team Coach' %}
+{% profile name: 'Patty Rutins', title: 'Assistant Team Coach', img: '/assets/patty.jpg' %}
 ---
 What I Do: Tag Along Assistant Coach
 ---
