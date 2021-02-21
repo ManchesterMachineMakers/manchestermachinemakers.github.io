@@ -7,35 +7,6 @@ We are a team of middle- and high-school aged kids building really cool robots f
 
 *Text otherwise provided by [Robot Ipsum](https://robotipsum.github.io/).*
 
-## Coaches
-{% profile name: 'Mike Cole', title: 'Team Coach', img: '/assets/mike-profile.jpg' %}
----
-What I Do: Team Coach
----
-
-Mike is a 4-H Club Adult Counselor and lives in the Manchester area. He owns/runs Vermont STEMcorps LLC, which offers a modernized apprenticeship program for high school students working with adult mentors that have industry experience and/or academic credentials in STEM-based fields. Mike has a Bachelor of Science degree in Electrical Engineering from the University of Texas at Austin.
-
-
-{% endprofile %}
-
-{% profile name: 'Meg Ruley', title: 'Team Coach', img: '/assets/MegRuley.JPG' %}
----
-What I Do: Team Coach
----
-
-Meg Ruley is a first year coach of the Manchester Machine Makers and the mother of team member Charlotte! She loves technology and learning about robotics.
-
-{% endprofile %}
-
-{% profile name: 'Patty Rutins', title: 'Assistant Team Coach' %}
----
-What I Do: Tag Along Assistant Coach
----
-
-Patty Rutins grew up in 4-H with horses, and this year she moved to robotics instead.  Her excuse is that Aleks, her son, is a first-year member. She earned a degree in Music and became a computer programmer, is currently a Senior Web Developer at The Orvis Company, Inc., and enjoys exploring all kinds of technology.
-
-{% endprofile %}
-
 # Team Members
 {% profile name: 'Charlotte', img: '/assets/charlotte.png', title: 'President' %}
 ---
@@ -91,3 +62,34 @@ Hexahedrometer kiloth dermatoplasia angiopenia Inverfold sexane tautini phenople
 
 
 {% endprofile %}
+
+
+## Coaches
+{% profile name: 'Mike Cole', title: 'Team Coach', img: '/assets/mike-profile.jpg' %}
+---
+What I Do: Team Coach
+---
+
+Mike is a 4-H Club Adult Counselor and lives in the Manchester area. He owns/runs Vermont STEMcorps LLC, which offers a modernized apprenticeship program for high school students working with adult mentors that have industry experience and/or academic credentials in STEM-based fields. Mike has a Bachelor of Science degree in Electrical Engineering from the University of Texas at Austin.
+
+
+{% endprofile %}
+
+{% profile name: 'Meg Ruley', title: 'Team Coach', img: '/assets/MegRuley.JPG' %}
+---
+What I Do: Team Coach
+---
+
+Meg Ruley is a first year coach of the Manchester Machine Makers and the mother of team member Charlotte! She loves technology and learning about robotics.
+
+{% endprofile %}
+
+{% profile name: 'Patty Rutins', title: 'Assistant Team Coach' %}
+---
+What I Do: Tag Along Assistant Coach
+---
+
+Patty Rutins grew up in 4-H with horses, and this year she moved to robotics instead.  Her excuse is that Aleks, her son, is a first-year member. She earned a degree in Music and became a computer programmer, is currently a Senior Web Developer at The Orvis Company, Inc., and enjoys exploring all kinds of technology.
+
+{% endprofile %}
+
