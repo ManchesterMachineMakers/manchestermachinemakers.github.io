@@ -7,7 +7,6 @@ We are a team of middle- and high-school aged kids building really cool robots f
 
 *Text otherwise provided by [Robot Ipsum](https://robotipsum.github.io/).*
 
-# Team Members
 {% profile name: 'Charlotte', img: '/assets/charlotte.png', title: 'President' %}
 ---
 What I Do: Wobble Goal Grabber & Intake Lead
@@ -28,7 +27,7 @@ Taylor is currently enrolled in Burr and Burton Academy’s Island School in the
 
 {% endprofile %}
 
-{% profile name: 'Isaac', img: '/assets/isaac.png', title: 'Treasurer' %}
+{% profile name: 'Isaac', img: '/assets/isaac.jpg', title: 'Treasurer' %}
 ---
 What I Do: Shooter & Autonomous Programming Lead
 First Season: 2019-2020
@@ -64,7 +63,6 @@ Hexahedrometer kiloth dermatoplasia angiopenia Inverfold sexane tautini phenople
 {% endprofile %}
 
 
-## Coaches
 {% profile name: 'Mike Cole', title: 'Team Coach', img: '/assets/mike-profile.jpg' %}
 ---
 What I Do: Team Coach

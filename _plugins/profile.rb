@@ -17,17 +17,19 @@ module MMMSite
             frontmatter = eval(YAML.load(@text).inspect)
             @text.gsub!(/---(.|\n)*---/, '') # Remove frontmatter from markdown
             <<~PROFILE
-            <section class="profile" id="profile-#{@name.gsub(/\s/, '-')}" style="background-image: url(#{@image})">
-            <div class="profile-header">
-                <h#{@hsize} class="profile-name">#{@name}</h#{@hsize}>
-                <strong class="profile-title">#{@title}</strong>
-            </div>
-            <div class="profile-text">
-            #{(frontmatter.map {|key, value| "<b>#{key}:</b> #{value}"}).join "<br/>"}
-            <hr/><br/>
-            #{Kramdown::Document.new(@text, input: 'GFM').to_html}
-            </div>
-            </section>
+            <figure class="profile" id="profile-#{@name.gsub(/\s/, '-')}">
+                <img src="#{@image}" alt="#{@name}" height="200"/>
+                <figcaption>
+                    <div class="profile-header">
+                        <h#{@hsize} class="profile-name">#{@name}</h#{@hsize}>
+                        <strong class="profile-title">#{@title}</strong>
+                    </div>
+                    <div class="profile-text">
+                        #{(frontmatter.map {|key, value| "<b>#{key}:</b> #{value}"}).join "<br/>"}
+                        #{Kramdown::Document.new(@text, input: 'GFM').to_html}
+                    </div>
+                </figcaption>
+            </figure>
             PROFILE
         end
     end
