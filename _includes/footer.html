@@ -21,7 +21,14 @@
         <p>{{ site.description | escape }}</p>
       </div>
     </div>
-
+    <div>
+      More:
+      <ul class="social-media-list">
+      {%- for page in site.data.footer_navigation -%}
+        <li><a rel="me" class="social-link" href="{{page.url | relative_url}}">{{page.title}}</a></li>
+      {%- endfor -%}
+      </ul>
+    </div>
     <div class="social-links">
       {%- include social.html -%}
     </div>
