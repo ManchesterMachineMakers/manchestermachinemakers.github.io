@@ -3,7 +3,7 @@ title: Robots
 layout: default
 ---
 # Robots
-{% profile name: 'Jeffrey', title: '2019-2020', img: '/assets/jeffrey.png' %}
+{% profile name: 'Geoffrey', title: '2019-2020', img: '/assets/jeffrey.png' %}
 ---
 Season: 2019-2020
 ---
