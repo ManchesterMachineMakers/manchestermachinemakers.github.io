@@ -3,8 +3,6 @@ title: Fundraising
 layout: default
 ---
 # Fundraising
-## Thank you to our generous donors!
-View the list [here](https://www.gofundme.com/f/crsx6v-a-cause-i-care-about-needs-help/donations).
 
 ## Thank you to our sponsors!
 {% sponsors %}
@@ -13,3 +11,6 @@ View the list [here](https://www.gofundme.com/f/crsx6v-a-cause-i-care-about-need
 {% sponsor name: "GoBilda", url: "https://gobilda.com", img: "/assets/gobilda.svg" %}
 {% sponsor name: "VASE", url: "https://vtscieng.org", img: "/assets/vase.webp" %}
 {% endsponsors %}
+
+## Thank you to our generous donors!
+View the list [here](https://www.gofundme.com/f/crsx6v-a-cause-i-care-about-needs-help/donations).
