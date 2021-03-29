@@ -11,3 +11,6 @@ You can learn more about our [team](/team), check out our [robots](/robots), or 
 
 More links:
 - [Programming Board Layout](/programming-board)
+
+## In the News!
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/d3dKtdyrNjk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -18,7 +18,9 @@ module MMMSite
             @text.gsub!(/---(.|\n)*---/, '') # Remove frontmatter from markdown
             <<~PROFILE
             <figure class="profile" id="profile-#{@name.gsub(/\s/, '-')}">
-                <img src="#{@image}" alt="#{@name}" height="200"/>
+                <div class="image-container">
+                    <img src="#{@image}" alt="#{@name}" height="200"/>
+                </div>
                 <figcaption>
                     <div class="profile-header">
                         <h#{@hsize} class="profile-name">#{@name}</h#{@hsize}>

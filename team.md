@@ -7,7 +7,7 @@ We are a team of middle- and high-school aged kids building really cool robots f
 
 *Text otherwise provided by [Robot Ipsum](https://robotipsum.github.io/).*
 
-{% profile name: 'Charlotte', img: '/assets/charlotte.png', title: 'President' %}
+{% profile name: 'Charlotte', img: '/assets/charlotte.jpg', title: 'President' %}
 ---
 What I Do: Wobble Goal Grabber & Intake Lead
 First Season: 2019-2020
@@ -23,7 +23,7 @@ What I Do: Drive Base Lead
 First Season: 2019-2020
 ---
 
-Taylor is currently enrolled in Burr and Burton Academy’s Island School in the Bahamas. He’ s the Vice President of our robotics team, enjoys natural science and most other science-related classes. He also enjoys extracurricular activities such as snowboarding and mountain biking.
+Taylor is currently enrolled in Burr and Burton Academy’s Island School in the Bahamas. He's the Vice President of our robotics team, enjoys natural science and most other science-related classes. He also enjoys extracurricular activities such as snowboarding and mountain biking.
 
 {% endprofile %}
 
@@ -51,7 +51,7 @@ Aleks is our "Java librarian"* and proponent of [open source software](/opensour
 
 {% endprofile %}
 
-{% profile name: 'Jason' %}
+{% profile name: 'Jason', img: '/assets/jason.jpg' %}
 ---
 What I Do: Sensor Lead
 First Season: 2020-2021

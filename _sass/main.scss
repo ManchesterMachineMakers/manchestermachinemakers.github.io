@@ -62,6 +62,9 @@ footer.site-footer, footer.site-footer .footer-col-wrapper .footer-col {
         text-align: center;
         position: relative;
     }
+    .profile .image-container {
+        min-width: 300px;
+    }
 }
 @media screen and (max-width: 600px) {
     nav.site-nav, nav.site-nav * {
@@ -113,7 +116,7 @@ a.social-link {
     color: white;
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: left;
     img {
         border-radius: 5px;
     }
@@ -128,4 +131,7 @@ a.social-link {
 }
 body {
     overflow-x: hidden;
+}
+.sponsors img {
+    display: block;
 }

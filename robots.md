@@ -17,5 +17,12 @@ Cardioalgia neoward monocephalic glutarped plumbscript ultralysis stereoini medi
 ---
 Season: 2020-2021
 ---
-Our robot during the 2020-2021 season.
+Our robot for the [Ultimate Goal](https://info.firstinspires.org/2021season/ultimategoal) challenge.
+
+**Specs**:
+- *Drive Base*: Mecanum, with extra secret extra stuff
+- *Wobble Goal Grabber*
+- *Shooter*: 90° turn
+- *Magazine*: Just a bucket, with pitching
+- *LEDs*: Because why not?
 {% endprofile %}
