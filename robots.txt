@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /instructions-for-new-team-members
