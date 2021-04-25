@@ -36,6 +36,7 @@ div.controls a.home-link {
     display: block;
     text-decoration: none;
     color: black;
+    margin-top: 2px;
 }
 div.controls:hover a.home-link {
     margin-top: 2px;
