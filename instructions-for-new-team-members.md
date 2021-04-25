@@ -1,3 +1,7 @@
+---
+layout: document
+title: Instructions for New Team Members
+---
 # We’re so happy you’re joining us! 
 
 Here are the steps you and your parents/guardians need to take to make it official:

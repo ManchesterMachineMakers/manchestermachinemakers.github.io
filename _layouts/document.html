@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="/assets/logo.png">
+    <link rel="stylesheet" href="/assets/css/document.css">
+    <title>{{page.title}} | Document Viewer | {{site.title}}</title>
+</head>
+<body>
+    <div class="controls">
+        <a href="/" class="home-link" title="Go home"><img width="32" src="/assets/logo-glow.png"> <span class="home-link-text">{{site.title}}</span></a>
+        <ul class="controls-container">
+            <li class="page-title">{{page.title}}</li>
+            {% if page.document.github %}<li><a href="{{page.document.github}}">View this document on GitHub</a></li>{% endif %}
+        </ul>
+    </div>
+    <main>
+        {{content}}
+    </main>
+</body>
+</html>

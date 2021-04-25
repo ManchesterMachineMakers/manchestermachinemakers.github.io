@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap');
+body {
+    width: 100vw;
+    height: 100vh;
+    font-family: Montserrat, Segoe UI, sans-serif;
+    margin: 0;
+    overflow: hidden;
+}
+.page-title {
+    font-weight: 500;
+    font-size: large;
+}
+main {
+    padding-left: 10%;
+    padding-right: 10%;
+    height: 100%;
+    overflow: auto;
+    font-family: Georgia, Times, Times New Roman, serif;
+}
+div.controls {
+    position: fixed;
+    top: 6px;
+    left: 6px;
+    width: 32px;
+    height: 32px;
+    border-radius: 18px;
+    padding: 4px;
+    background-color: white;
+    box-shadow: 1px 2px 4px rgb(92, 92, 92);
+}
+div.controls:hover {
+    height: auto;
+    width: auto;
+}
+div.controls a.home-link {
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+div.controls:hover a.home-link {
+    margin-top: 2px;
+}
+div.controls a.home-link span.home-link-text {
+    display: none;
+    padding-right: 4px;
+    font-weight: 300;
+}
+div.controls:hover a.home-link span.home-link-text {
+    display: inline;
+}
+div.controls a.home-link img {
+    width: 32px;
+    display: inline;
+    vertical-align: middle;
+}
+div.controls ul.controls-container {
+    display: none;
+    list-style-type: none;
+    padding: 6px;
+    padding-top: 0;
+    margin: 2px;
+}
+div.controls:hover ul.controls-container {
+    display: block;
+}
+div.controls ul.controls-container li:not(.page-title ) {
+    font-size: small;
+}
+a {
+    color: blue;
+    text-decoration: none;
+}
+a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+/********************************************************/
+
+main li {
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+main li > li {
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
