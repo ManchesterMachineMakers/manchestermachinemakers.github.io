@@ -4,7 +4,7 @@ title: Instructions for New Team Members
 ---
 # We’re so happy you’re joining us! 
 
-Here are the steps you and your parents/guardians need to take to make it official:
+Here are the steps you and your parents/guardians need to take to become an official member of the **Manchester Machine Makers**:
 
 - Every team member needs to register with 4-H
   - Go to <https://www.uvm.edu/extension/youth/join-4-h> and follow the link to register online.
