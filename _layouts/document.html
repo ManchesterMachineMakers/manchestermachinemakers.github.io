@@ -10,14 +10,14 @@
 </head>
 <body>
     <div class="controls">
-        <a href="/" class="home-link" title="Go home"><img width="32" src="/assets/logo-glow.png"> <span class="home-link-text">{{site.title}}</span></a>
-        <ul class="controls-container">
-            <li class="page-title">{{page.title}}</li>
-            {% if page.document.github %}<li><a href="{{page.document.github}}">View this document on GitHub</a></li>{% endif %}
-        </ul>
+        <a href="/" class="home-link" title="Go home"><img class="site-icon" width="32" src="/assets/logo-glow.png"> <span class="home-link-text">Manchester Machine Makers</span></a>
+        <span class="page-title">{{page.title}}</span>
+        <span class="docviewer">Document Viewer</span>
     </div>
     <main>
+        <div class="page">
         {{content}}
+        </div>
     </main>
 </body>
 </html>

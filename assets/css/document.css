@@ -11,78 +11,56 @@ body {
     font-size: large;
 }
 main {
-    padding-left: 10%;
-    padding-right: 10%;
     height: 100%;
     overflow: auto;
-    font-family: Georgia, Times, Times New Roman, serif;
+    /* font-family: Georgia, Times, Times New Roman, serif; */
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+}
+span.docviewer {
+    float: right;
+    font-weight: lighter;
+}
+main .page {
+    padding: 20px;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    word-wrap: break-word;
+    box-shadow: 1px 2px 20px black;
+    min-height: 100%;
+    max-width: 600px;
+    background-color: white;
 }
 div.controls {
-    position: fixed;
-    top: 6px;
-    left: 6px;
-    width: 32px;
-    height: 32px;
-    border-radius: 18px;
-    padding: 4px;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0px;
+    padding: 10px;
     background-color: white;
-    box-shadow: 1px 2px 4px rgb(92, 92, 92);
+    box-shadow: 1px 0px 5px black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
-div.controls:hover {
-    height: auto;
-    width: auto;
-}
-div.controls a.home-link {
-    display: block;
-    text-decoration: none;
-    color: black;
-    margin-top: 2px;
-}
-div.controls:hover a.home-link {
-    margin-top: 2px;
-}
-div.controls a.home-link span.home-link-text {
-    display: none;
-    padding-right: 4px;
-    font-weight: 300;
-}
-div.controls:hover a.home-link span.home-link-text {
-    display: inline;
-}
-div.controls a.home-link img {
-    width: 32px;
-    display: inline;
+img.site-icon {
     vertical-align: middle;
 }
-div.controls ul.controls-container {
-    display: none;
-    list-style-type: none;
-    padding: 6px;
-    padding-top: 0;
-    margin: 2px;
-}
-div.controls:hover ul.controls-container {
-    display: block;
-}
-div.controls ul.controls-container li:not(.page-title ) {
-    font-size: small;
-}
-a {
-    color: #2a7ae2;
+a.home-link {
     text-decoration: none;
-}
-a:hover {
     color: black;
-    text-decoration: underline;
 }
-
-/********************************************************/
-
-main li {
-    margin-top: 6px;
-    margin-bottom: 6px;
+@media screen and (max-width: 775px) {
+    span.home-link-text {
+        display: none;
+    }
 }
-main li > li {
-    margin-top: 3px;
-    margin-bottom: 3px;
+@media screen and (max-width: 525px) {
+    span.docviewer {
+        display: none;
+    }
+    div.controls {
+        display: block;
+    }
 }
