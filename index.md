@@ -17,5 +17,7 @@ If you are in the Manchester area, please fill out [this form](https://tinyurl.c
 
 ## In the News!
 - [Manchester robotics team captures Think Award - Manchester Journal](https://www.manchesterjournal.com/news/local/manchester-robotics-team-captures-think-award/article_89e5581a-91e0-11eb-9862-570fc794721e.html)
-- Machine Makers Make a First Place - The News Project
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/d3dKtdyrNjk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- [Machine Makers Make a First Place - The News Project - YouTube
+  ![Thumbnail](/assets/gnat-yt-20202021-thumbnail.png)
+  ](https://youtu.be/d3dKtdyrNjk){:rel='noopener'}{:target='_blank'}
+  _(linked because it was being creepy)_
