@@ -11,6 +11,7 @@ You can learn more about our [team](/team), check out our [robots](/robots), or 
 
 More links:
 - [Programming Board Layout](/programming-board)
+- [Join our mailing list!](https://groups.google.com/g/ftc16221-news)
 
 ## Recruiting!
 If you are in the Manchester area, please fill out [this form](https://tinyurl.com/mmm-questions) and come to the Zoom open house! _We need new people!_
