@@ -3,6 +3,7 @@ layout: default
 title: Home
 ---
 # Home
+**PLEASE NOTE**: this is an archive of the site, and will not be updated.
 We are the Manchester Machine Makers, the FTC team for Manchester, Vermont. 
 
 Welcome to our website!
