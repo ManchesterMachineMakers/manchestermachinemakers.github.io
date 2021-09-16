@@ -1,0 +1,36 @@
+body {
+    font-family: 'Lato', 'Helvetica Neue', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    height: 100%;
+    margin: 0;
+    color: white;
+    background-color: #353e49;
+  }
+  a {
+    color: #ff706c;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  p {
+    font-size: 18px;
+  }
+  img {
+    margin-bottom: 30px;
+  }
+  div#content {
+    padding: 50px;
+    border-radius: 20px;
+    background-color: white;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
